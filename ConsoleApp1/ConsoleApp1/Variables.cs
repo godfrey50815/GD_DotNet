@@ -8,7 +8,7 @@ namespace Variables
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             char letter = 'a';
             int num = 12;
