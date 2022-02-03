@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     class Class1
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             //Convert.ToInt32();
             //Convert.ToDouble();
