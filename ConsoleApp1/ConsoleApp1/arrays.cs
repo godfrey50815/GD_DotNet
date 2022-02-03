@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     class arrays
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             string[] cars = new string[] { "BMW", "Audi", "VW" };
             Console.WriteLine("First Car is : " + cars[0]);
