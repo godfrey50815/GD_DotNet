@@ -9,7 +9,7 @@ namespace ConsoleApp1
     class Constants
     {
         enum Days { Sat, Sun, Mon, Tue, Wed, Thu, Fri };
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             const double pi = 3.121321312323;
             var dataType = typeof(Days);
